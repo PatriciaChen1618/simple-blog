@@ -1,0 +1,6 @@
+__pycache__
+memo.txt
+.vscode
+venv
+app/__pycache__
+app/main/__pycache__
